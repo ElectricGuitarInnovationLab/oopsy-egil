@@ -4,7 +4,7 @@
 padding:10px; 
 background-color: #d1ecf1;">
 
-Support for custom hardware is not yet available in the master branch(or fork) of Oopsy. Follow these [instructions](https://github.com/electro-smith/DaisyWiki/wiki/How-To:-Custom-JSON-with-Oopsy) to keep this package up to date.
+Support for custom hardware is not yet available in the master branch(or fork) of Oopsy. Follow [these] (https://github.com/electro-smith/DaisyWiki/wiki/How-To:-Custom-JSON-with-Oopsy) instructions to keep this package up to date.
 
 </div>
 <br>
